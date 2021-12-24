@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Asad
-- 👀 I’m interested ...
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on projects based on JavaScript
-- 📫 How to reach me ...
+<!-- - 📫 How to reach me ... -->
+<!-- - 👀 I’m interested in blockchain te -->
 
 <!---
 asadrjhk/asadrjhk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
