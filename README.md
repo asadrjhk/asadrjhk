@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asad
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on projects based on JavaScript
+- 🌱 I’m currently working as backend developer(Main area of focus python, clickhouse, fastapi).
+- 💞️ I’m looking to collaborate on projects based on backend development.
 <!-- - 📫 How to reach me ... -->
 <!-- - 👀 I’m interested in blockchain te -->
 
